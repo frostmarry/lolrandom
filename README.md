@@ -12,4 +12,6 @@ Manjaro Linux x86_64
 
 [Apa itu IP Address](https://www.niagahoster.co.id/blog/ip-address-adalah/)
 
+Video tutorial deploy heroku : 
+
 [![heroku deploy](http://img.youtube.com/vi/aUW5GAFhu6s/0.jpg)](http://www.youtube.com/watch?v=aUW5GAFhu6s "")
