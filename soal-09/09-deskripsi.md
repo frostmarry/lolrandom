@@ -7,3 +7,7 @@
 -menghapus 1 baris pada Procfile agar tidak terjadi seeder error
 
 -kemudian melakukan commit dan push ke heroku master
+
+Hasilnya:
+
+[dumbways-kloter1-todo](https://dumbways-kloter1-todo.herokuapp.com/)

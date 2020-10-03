@@ -1,5 +1,6 @@
 # Bootcamp DevOps
-##Sistem Operasi:
+## Sistem Operasi:
+
 Manjaro Linux x86_64
 
 ---
