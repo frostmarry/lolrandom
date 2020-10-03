@@ -1,0 +1,3 @@
+-memudahkan pengambilan data antara komputer yang berjauhan tanpa kabeln
+-data yang diambil sudah terenkripsi jadi lebih aman terhadap peretasan
+-data yang ada di server juga aman dan jika ada perubahaan yang tidak di inginkan mudah untuk melakukan rollback
